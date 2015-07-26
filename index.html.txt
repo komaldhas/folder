@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+<head>
+<link rel="stylesheet" href="css/bootstrap.css"  type="text/css">
+</head>
+
+<body>
+<div class="container">
+  <div class="jumbotron">
+    <h1>My First Bootstrap Page</h1>
+    <p>Resize this responsive page to see the effect!</p> 
+  </div>
+<img src="E:\photos\dp komu\k.jpg" class="img-circle" alt="Cinque Terre" width="304" height="236"> 
+ </div>
+
+</body>
+</html>
